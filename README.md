@@ -1,2 +1,2 @@
-# Lab1
+# Laboratoare
 Exercitiile de la tema
